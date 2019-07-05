@@ -1,6 +1,6 @@
 # QUADRATIC DISCRIMINANT ANALYSIS BY PRINCIPAL OF MISSCLASSIFICATION
 This Method Uses Principal of Missclassification (Costs) to Discriminate **Normally Distributed Population into TWO Groups**. 
-for more you can read book 'Applied Multivariate Statistical Analysis by Richard Johnson an Dean Wichern'
+for more you can read book 'Applied Multivariate Statistical Analysis by Richard Johnson and Dean Wichern'
 
 ###### How to Import:
 **from QDA import qda**    
