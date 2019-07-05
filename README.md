@@ -4,7 +4,8 @@ for more you can read book 'Applied Multivariate Statistical Analysis by Richard
 
 ###### How to Import:
 **from QDA import qda**    
-         #Make sure to place QDA.py in directory of your code
+- place QDA.py in directory of your code
+- Make sure to preinstall numpy,pandas,scipy,sklearn 
 
 ###### Usage:
 ## To check Normality of Multivariate data
